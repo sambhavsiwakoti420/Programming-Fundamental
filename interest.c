@@ -1,9 +1,9 @@
 /*
-name: change joshi
-subject: programmimg fundamental
-roll no: 5
-program: wap to print simple interest
-date: 18 nov 2016
+Student Name:Sambhav SiwakotiS
+Subject: Programmimg Fundamental
+Roll No: 14
+Program: Write a C program to print simple interest
+Date: 18 nov 2016
 */
 #include <stdio.h>
 #include <conio.h>
