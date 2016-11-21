@@ -1,7 +1,7 @@
 /*
-student's name: change joshi
+student's name: shambhav 
 subject:programming fundamental
-roll no:5
+roll no:14
 labsheet: 4
 program: wap to print area of triangle?
 date:21 nov 2016
