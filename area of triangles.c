@@ -1,10 +1,10 @@
 /*
-student's name: shambhav 
-subject:programming fundamental
-roll no:14
-labsheet: 4
-program: wap to print area of triangle?
-date:21 nov 2016
+Student Name: Sambhav Siwakoti
+Subject:Programming Fundamental
+Roll No.:14
+Lab Sheet No.: 4
+Program:Write a C program to print the area of triangle?
+Date:21 nov 2016
 */
 #include <stdio.h>
 #include<conio.h>
