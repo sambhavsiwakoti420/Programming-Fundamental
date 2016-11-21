@@ -1,9 +1,9 @@
 /*
-student's name: Sambhav
-subject:programming fundamental
-roll no:14
-labsheet: 4
-program: wap to print area of trapezium?
+Students name: Sambhav Siwakoti
+Subject:Programming Fundamental
+Roll No:14
+Lab Sheet No.: 14
+Program: wap to print area of trapezium?
 date:21 nov 2016
 */
 #include <stdio.h>
