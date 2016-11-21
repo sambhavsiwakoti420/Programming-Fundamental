@@ -3,8 +3,8 @@ Students name: Sambhav Siwakoti
 Subject:Programming Fundamental
 Roll No:14
 Lab Sheet No.: 14
-Program: wap to print area of trapezium?
-date:21 nov 2016
+Program:Write a C program to print the area of trapezium?
+Date:21 nov 2016
 */
 #include <stdio.h>
 #include<conio.h>
