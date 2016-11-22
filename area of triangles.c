@@ -20,9 +20,7 @@ scanf("%f",&c);
 s=a+b+c/2;
 d=s*(s-a)*(s-b)*(s-c);
 area=pow(d, 0.5);
-printf("the area of triangle is %f",area);
+printf("The area of triangle is:%f",area);
 getch();
 return 0;
-
-
 }
