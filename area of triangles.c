@@ -19,7 +19,7 @@ printf("Enter the third side of triangle\n");
 scanf("%f",&c);
 s=a+b+c/2;
 d=s*(s-a)*(s-b)*(s-c);
-area=pow(a, 0.5);
+area=pow(d, 0.5);
 printf("the area of triangle is %f",area);
 getch();
 return 0;
