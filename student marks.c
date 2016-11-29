@@ -30,7 +30,7 @@ printf("Enter the marks of Programming fundamental\n");
 scanf("%f",PF);
    Sum=CA+DS+IS+AL+OM+PF;
 
-printf("Total Marks %f\n",s);
+printf("Total Marks %f\n",Sum);
 
 percentage=(Sum/600)*100;
 
