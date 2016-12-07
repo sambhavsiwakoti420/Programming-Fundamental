@@ -10,11 +10,11 @@ Date:7 November 2016
 #include<conio.h>
 int main(){
 int a,b,c;
-printf("Enter then first number /n");
+printf("Enter then first number \n");
 scanf("%d",&a);
-printf("Enter the second number /n");
+printf("Enter the second number \n");
 scanf("%d",&b);
-printf("Enter the third number /n");
+printf("Enter the third number \n");
 scanf("%d",&c);
 
 if(a>=b&&a>=c)
